@@ -5,7 +5,7 @@
 ### I started by scan the ports to answer to the first question
 
 I used this nmap command : nmap -A -p- -T4 _IP_
-  - _-A or -sV : Enables version detection, as discussed above_
+  - _-A or -sV : Enables version detection_
   - _-p- : to scan every 65535 port_
   - _-T<0-5>: Set timing template (higher is faster)_
 

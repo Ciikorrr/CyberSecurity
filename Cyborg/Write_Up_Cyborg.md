@@ -133,7 +133,7 @@ alex@ubuntu:~$ cat user.txt
 flag{**********************}
 ```
 
-## Privilege Escalation
+## Privilege Escalation
 
 ### I started with a basic sudo -l to enumerate all commands authorised by alex as another user, I've found that alex can execute a script as any user (so in root too)
 
